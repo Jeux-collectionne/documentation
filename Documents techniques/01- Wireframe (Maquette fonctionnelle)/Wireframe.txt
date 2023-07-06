@@ -1,7 +1,0 @@
-- schéma utilisé lors de la conception d'une interface utilisateur pour définir les zones et composants qu'elle doit contenir
- 
-- à partir d'un wireframe peut être réalisée l'interface proprement dite par un graphiste 
-
-- consiste concrètement en un croquis, un collage papier ou un schéma numérique
-
-- Pour un site web, une première forme de maquette statique consiste à définir le « zoning » des écrans, c’est-à-dire le découpage des pages du site. Pour chaque type de page (ex : page d’accueil, page intérieure, chapeau de rubrique, etc.) le concepteur identifie les différentes zones de la page qu’il schématise à l’aide de blocs ou de boîtes afin de déterminer les grandes fonctionnalités et les zones principales du contenu. Il précise le rôle et la position de chaque zone et définit leur taille relative ainsi que leur importance visuelle2. Le concepteur peut par la suite détailler et donner des précisions sur les éléments de la page comme la hiérarchisation des différents textes, les dimensions en pixel des contenus, etc.
