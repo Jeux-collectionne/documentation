@@ -1,5 +1,7 @@
-Point d'étape du 02 janvier :
-
+Point d'étape du 11 avril :
+Avancement du projet de build d'un container docker pour stocker l'image de l'API. But est de pouvoir avoir une image de l'API qu'on pourrait télécharger sur Docker et run sans avoir à installer toutes les dépendances sur notre machine à chaque fois.
+Eric et Théo vont se partager la tâche.
+De mon côté, recherche de container/images Docker avec soit Android Studio + émulateur Android dessus, soit une image d'émulateur Android sur Docker.
 
 
 Programme de travail entre les deux points d'étape :
