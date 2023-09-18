@@ -1,0 +1,5 @@
+* Espace forum- Discussion.png :
+url barre d'adresse : rajouter "/discussions"
+
+* Espace forum.png
+url barre d'adresse : changer "/jeux" pour "/forum"
